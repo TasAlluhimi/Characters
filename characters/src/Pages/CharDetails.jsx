@@ -13,6 +13,7 @@ function CharDetails() {
     React.useEffect(()=>{
         
         axios.get("https://656d8d4fbcc5618d3c2364a0.mockapi.io/chars")
+        // axios.get("http://localhost:3000/Chars")
         .then((response)=>{
             // console.log(response.data);
             const charData = response.data.find((item)=>item.id == id)

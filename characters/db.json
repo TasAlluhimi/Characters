@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "Chars": [
+    {
+      "name": "Rick Sanchez",
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "hair": "White",
+      "status": "dead",
+      "species": "Human",
+      "gender": "Male",
+      "origin": "Earth",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Mooncake",
+      "status": "Unknown",
+      "species": "Mooncake's Species",
+      "gender": "None (referred to as male)",
+      "hair": "None",
+      "origin": "Outer space",
+      "image": "https://finalspaceapi.com/api/character/avatar/mooncake.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Quinn Ergon",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "hair": "Dark Brown",
+      "origin": "Earth",
+      "image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Abadango Cluster Princess",
+      "status": "Alive",
+      "species": "Alien",
+      "hair": "Pink",
+      "gender": "Female",
+      "origin": "Abadango",
+      "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Little Cato",
+      "status": "Alive",
+      "species": "Ventrexian",
+      "gender": "Male",
+      "hair": "Orange,Turquoise(dyed)",
+      "origin": "Ventrexia",
+      "image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Avocato",
+      "status": "Alive",
+      "species": "Ventrexian",
+      "gender": "Male",
+      "hair": "Dark Teal / White ",
+      "origin": "Ventrexia",
+      "image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Ash Graven",
+      "status": "Unknown",
+      "species": "Serepentian",
+      "gender": "Female",
+      "hair": "Pink",
+      "origin": "Serepentis",
+      "image": "https://finalspaceapi.com/api/character/avatar/ash_graven.png"
+    },
+    {
+      "id": "12",
+      "name": "Tribore Menendez",
+      "status": "Alive",
+      "species": "Unknown",
+      "gender": "Male",
+      "hair": "None",
+      "origin": "Hatched",
+      "image": "https://finalspaceapi.com/api/character/avatar/tribore.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Clarence",
+      "status": "Deceased",
+      "gender": "Male",
+      "hair": "Black",
+      "origin": "Unknown",
+      "image": "https://finalspaceapi.com/api/character/avatar/clarence.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Morty Smith",
+      "status": "Alive",
+      "gender": "Male",
+      "hair": "Brown",
+      "origin": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+    },
+    {
+      "id": "17",
+      "name": "Hoards",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKKaWaWYJQ0UBbICXNtBZLjIQb7r-3wC3-Ng&usqp=CAU",
+      "hair": "brown",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "female",
+      "origin": "Earth"
+    },
+    {
+      "id": "25",
+      "image": "",
+      "name": "",
+      "hair": "",
+      "status": "",
+      "species": "",
+      "gender": "",
+      "origin": ""
+    },
+    {
+      "id": "26",
+      "name": "",
+      "image": "",
+      "hair": "Yelloww",
+      "status": "",
+      "species": "",
+      "gender": "",
+      "origin": ""
+    }
+  ]
+}
